@@ -140,7 +140,7 @@ function Couple() {
                                 </strong>
                             </p> */}
                             <p className="mt-2 mt-lg-3">
-                                S/O. Janab
+                                S/O. Janab{" "}
                                 <strong>
                                     J. Mehboob Basha Sahab,
                                 </strong>{" "}Goldsmith
