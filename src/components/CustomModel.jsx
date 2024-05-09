@@ -73,7 +73,7 @@ function CustomModel1() {
                 <div className="card-inner-wrapper">
                     <div data-aos="zoom-out" className="card-content">
                         <h1 className="card-title m-0">
-                            Shah Pahelwan Family's Wedding Ceremony Invitation
+                            Sha Police Family's Wedding Ceremony Invitation
                         </h1>
                         <img
                             src="../assets/images/line-divider.png"
